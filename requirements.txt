@@ -1,0 +1,8 @@
+numpy
+pandas
+Flask
+scikit-learn
+requests
+pip3 install torch torchvision torchaudio
+Pillow
+gunicorn == 20.0.4
