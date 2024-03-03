@@ -1,9 +1,0 @@
-step1:clone the folder
-step 2:using anaconda prompt navigate to harvestify folder
-step 3: run the folloeing commands
-conda create -n harvestify python=3.6.12
-conda activate harvestify
-pip install -r requirements.txt
-step 4:
-to run use "python app.py"
-step 5:use the url and open the website
